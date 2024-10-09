@@ -23,10 +23,6 @@ export default defineConfig({
   build: {
     target: 'esnext', // Target modern browsers
     minify: 'terser',  // Use Terser for minification
-    terserOptions: {
-      compress: {
-        drop_console: true, // Remove console logs in production
-      },
     },
     cssCodeSplit: true, // Split CSS into separate files
   },
