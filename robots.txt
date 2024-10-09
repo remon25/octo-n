@@ -1,0 +1,17 @@
+# Allow all bots to crawl the site
+User-agent: *
+Disallow:
+
+# Block specific directories (if needed)
+# Disallow: /admin/
+# Disallow: /login/
+# Disallow: /private/
+
+# Allow specific files (if necessary)
+# Allow: /public/file.txt
+
+# Block all crawlers from accessing certain files (if needed)
+# Disallow: /secret-file.html
+
+# Sitemap (replace with your actual sitemap URL)
+# Sitemap: https://your-website-url.com/sitemap.xml
