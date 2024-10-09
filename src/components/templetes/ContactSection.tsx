@@ -1,7 +1,7 @@
-import Inst from "../../assets/insta.svg";
-import LinkedIn from "../../assets/linkedin.svg";
-import Whatsapp from "../../assets/whatsapp.svg";
-import Mail from "../../assets/mail.svg";
+import Inst from "../../assets/insta.webp";
+import LinkedIn from "../../assets/linkedin.webp";
+import Whatsapp from "../../assets/whatsapp.webp";
+import Mail from "../../assets/mail.webp";
 import Logo from "../../assets/bottomLogo.webp";
 import Shadow from "../ui/Shadow";
 import { motion } from "framer-motion";
